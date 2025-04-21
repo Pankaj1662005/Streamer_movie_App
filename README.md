@@ -66,13 +66,19 @@ Get the latest **StreamIt v3.0.1** trial APK from Google Drive:
 - Google Drive for distribution
 
 ---
+---
 
-## 📬 Contact
+## ⚠️ Important Notice
+
+> 🔒 **Note:** The code available in this GitHub repository is from an **older version** of the app and may not reflect the latest features or structure of **StreamIt v3.0.1**.
+
+📩 To request access to the **latest source code**, feel free to reach out:
 
 👤 **Pankaj**  
-📧 Email: pankajsheeokand2005@gmail.com  
 🎓 Thapar College  
 📌 coe Engineering, Data Science , ML
+**📧 Email:** pankajsheokand2005@gmail.com
 
 ---
+
 
