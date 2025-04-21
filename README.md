@@ -10,7 +10,7 @@ This is the **trial APK (v3.0.1)** version for early access and feedback.
 > ✨ Here's a preview of StreamIt in action:
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="./screenshots/1.jpg" width="200"/>
+  <img src="release/Sample photos/1.jpg" width="200"/>
   <img src="./screenshots/2.jpg" width="200"/>
   <img src="./screenshots/3.jpg" width="200"/>
   <img src="./screenshots/4.jpg" width="200"/>
