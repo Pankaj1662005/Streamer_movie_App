@@ -1,16 +1,61 @@
-# movie_stream
+# 🎬 StreamIt
 
-A new Flutter project.
+Welcome to **StreamIt**, your go-to platform to explore and stream your favorite movies.  
+This is the **trial APK (v3.0.1)** version for early access and feedback.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 App Preview
 
-A few resources to get you started if this is your first Flutter project:
+### 🔐 Sign Up Screen
+![Sign Up Screen](./IMG-20250422-WA0001.jpg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📥 Download
+
+Get the latest APK to try it out:
+
+> ✅ [**Download StreamIt v3.0.1**](https://github.com/yourusername/your-repo-name/releases/latest/download/streamit-v3.0.1.apk)
+
+> ⚠️ You may need to enable **"Install from Unknown Sources"** on your Android device.
+
+---
+
+## ✨ Features
+
+- 🔎 Search for the latest movies
+- 🎥 Watch trailers directly in-app
+- ❤️ Save movies to favorites
+- 🔐 Sign up & login with secure authentication
+- 🎨 Clean and modern UI
+
+---
+
+## 🚀 Installation
+
+1. Download the APK file from the link above.
+2. Transfer the APK to your Android device.
+3. Enable "Install from Unknown Sources" in your device settings.
+4. Open the APK and install StreamIt.
+
+---
+
+## 🛠️ Tech Stack
+
+- Flutter (or mention your framework)
+- Firebase Authentication
+- REST APIs for movie data
+- Dart (or your backend language)
+
+---
+
+## 🤝 Contact
+
+👤 **Pankaj**  
+📧 Email: your.email@example.com  
+📍 Thapar College
+
+---
+
+> ⭐ Don't forget to give the repo a star if you like the project!
