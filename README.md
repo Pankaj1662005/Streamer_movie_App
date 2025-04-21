@@ -27,6 +27,23 @@ This is the **trial APK (v3.0.1)** version for early access and feedback.
   <img src="release/Sample photos/14.jpg" width="200"/>
   <img src="release/Sample photos/15.jpg" width="200"/>
 </div>
+<p align="center">
+  <img src="release/Sample photos/1.jpg" width="200"/>
+  <img src="release/Sample photos/2.jpg" width="200"/>
+  <img src="release/Sample photos/3.jpg" width="200"/>
+  <img src="release/Sample photos/4.jpg" width="200"/>
+  <img src="release/Sample photos/5.jpg" width="200"/>
+  <img src="release/Sample photos/6.jpg" width="200"/>
+  <img src="release/Sample photos/7.jpg" width="200"/>
+  <img src="release/Sample photos/8.jpg" width="200"/>
+  <img src="release/Sample photos/9.jpg" width="200"/>
+  <img src="release/Sample photos/10.jpg" width="200"/>
+  <img src="release/Sample photos/11.jpg" width="200"/>
+  <img src="release/Sample photos/12.jpg" width="200"/>
+  <img src="release/Sample photos/13.jpg" width="200"/>
+  <img src="release/Sample photos/14.jpg" width="200"/>
+  <img src="release/Sample photos/15.jpg" width="200"/>
+</p>
 
 ---
 
