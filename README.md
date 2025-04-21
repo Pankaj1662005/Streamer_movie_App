@@ -11,7 +11,6 @@ This is the **trial APK (v3.0.1)** version for early access and feedback.
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="release/Sample photos/1.jpg" width="200"/>
-  <img src="release/Sample photos/1.jpg" width="200"/>
   <img src="release/Sample photos/2.jpg" width="200"/>
   <img src="release/Sample photos/3.jpg" width="200"/>
   <img src="release/Sample photos/4.jpg" width="200"/>
@@ -27,23 +26,6 @@ This is the **trial APK (v3.0.1)** version for early access and feedback.
   <img src="release/Sample photos/14.jpg" width="200"/>
   <img src="release/Sample photos/15.jpg" width="200"/>
 </div>
-<p align="center">
-  <img src="release/Sample photos/1.jpg" width="200"/>
-  <img src="release/Sample photos/2.jpg" width="200"/>
-  <img src="release/Sample photos/3.jpg" width="200"/>
-  <img src="release/Sample photos/4.jpg" width="200"/>
-  <img src="release/Sample photos/5.jpg" width="200"/>
-  <img src="release/Sample photos/6.jpg" width="200"/>
-  <img src="release/Sample photos/7.jpg" width="200"/>
-  <img src="release/Sample photos/8.jpg" width="200"/>
-  <img src="release/Sample photos/9.jpg" width="200"/>
-  <img src="release/Sample photos/10.jpg" width="200"/>
-  <img src="release/Sample photos/11.jpg" width="200"/>
-  <img src="release/Sample photos/12.jpg" width="200"/>
-  <img src="release/Sample photos/13.jpg" width="200"/>
-  <img src="release/Sample photos/14.jpg" width="200"/>
-  <img src="release/Sample photos/15.jpg" width="200"/>
-</p>
 
 ---
 
@@ -51,7 +33,7 @@ This is the **trial APK (v3.0.1)** version for early access and feedback.
 
 Get the latest **StreamIt v3.0.1** trial APK from Google Drive:
 
-> ✅ [**Download APK**](https://drive.google.com/uc?export=download&id=YOUR_FILE_ID)
+> ✅ [**Download APK**](https://drive.google.com/file/d/1buIZH2bOD1ptokXaISvFa627SDvJ2wqM/view?usp=drivesdk)
 
 > ⚠️ You may need to enable **"Install from Unknown Sources"** in your Android device settings.
 
