@@ -2,6 +2,7 @@
 
 Welcome to **StreamIt**, your go-to platform to explore and stream your favorite movies.  
 This is the **trial APK (v3.0.1)** version for early access and feedback.
+![Gameplay Demo](.release/Sample photos/sample.gif)
 
 ---
 
