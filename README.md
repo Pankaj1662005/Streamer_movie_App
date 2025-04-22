@@ -4,7 +4,8 @@ Welcome to **StreamIt**, your go-to platform to explore and stream your favorite
 This is the **trial APK (v3.0.1)** version for early access and feedback.
 > 👇 A quick look at StreamIt in action:
 
-![Gameplay Demo](release/Sample photos/sample.gif)
+![Gameplay Demo](release/Sample%20photos/sample.gif)
+
 
 ---
 
