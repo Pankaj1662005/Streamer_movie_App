@@ -14,6 +14,7 @@ This is the **trial APK (v3.0.1)** version for early access and feedback.
 > ✨ Here's a preview of StreamIt in action:
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="release/Sample photos/WhatsApp Image 2025-06-01 at 08.55.52_151a63c2.jpg" width="200"/>
   <img src="release/Sample photos/1.jpg" width="200"/>
   <img src="release/Sample photos/2.jpg" width="200"/>
   <img src="release/Sample photos/3.jpg" width="200"/>
@@ -46,7 +47,7 @@ Get the latest **StreamIt v3.0.1** trial APK from Google Drive:
 ## ✨ Features
 
 - 🔎 Browse trending and popular movies
-- 🎬 Watch trailers inside the app
+- 🎬 Watch trailers and free movies inside the app
 - 🔐 User authentication (sign up & login)
 - 📁 Save favorites
 - ⚡ Clean UI & responsive design
